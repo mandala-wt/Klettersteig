@@ -16,5 +16,13 @@
     "schwierigkeit": "B/C",
     "dauer": "0,5 h",
     "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-todtnau"
+  },
+  {
+    "name": "Via Ferrata Pas de Cabres - Camino equipado",
+    "schwierigkeit": "B",
+    "dauer": "5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-pas-de-cabres-camino-equipado"
   }
 ]
