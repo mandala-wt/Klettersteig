@@ -10,5 +10,11 @@
     "schwierigkeit": "D",
     "dauer": "1,5 h",
     "url": "https://www.via-ferrata.de/klettersteige/topo/tegelberg-fingersteig"
+  },
+  {
+    "name": "Klettersteig Todtnau",
+    "schwierigkeit": "B/C",
+    "dauer": "0,5 h",
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-todtnau"
   }
 ]
