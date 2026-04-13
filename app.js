@@ -1,3 +1,6 @@
+const GITHUB_TOKEN = "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";
+const REPO = "mandala-wt/Klettersteig";
+const FILE_PATH = "data.json";
 const API_URL = "https://raw.githubusercontent.com/mandala-wt/Klettersteig/main/data.json";
 
 let data = [];
@@ -69,13 +72,52 @@ function updateMap(list) {
     map.fitBounds(group.getBounds(), { padding: [20, 20] });
   }
 }
+function deleteItem(urlToDelete) {
 
+  const apiUrl = `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`;
+
+  fetch(apiUrl, {
+    headers: {
+      Authorization: "token " + GITHUB_TOKEN
+    }
+  })
+    .then(res => res.json())
+    .then(data => {
+      const content = JSON.parse(atob(data.content));
+
+      const updated = content.filter(item => item.url !== urlToDelete);
+
+      return fetch(apiUrl, {
+        method: "PUT",
+        headers: {
+          Authorization: "token " + GITHUB_TOKEN,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          message: "Delete item",
+          content: btoa(JSON.stringify(updated, null, 2)),
+          sha: data.sha
+        })
+      });
+    })
+    .then(() => {
+      alert("Gelöscht!");
+      loadData();
+    })
+    .catch(err => {
+      console.error(err);
+      alert("Fehler beim Löschen");
+    });
+}
 function render(list) {
   app.innerHTML = list.map(item => `
     <div class="card">
       <strong>${item.name}</strong><br>
       Schwierigkeit: ${item.schwierigkeit || "-"}<br>
       Dauer: ${item.dauer || "-"}<br>
+      <button onclick="deleteItem('${item.url}')" style="margin-top:5px; background:red; color:white;">
+  Löschen
+</button>
       <a href="${item.url}" target="_blank">Öffnen</a>
     </div>
   `).join("");
