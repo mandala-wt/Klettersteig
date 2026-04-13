@@ -24,5 +24,14 @@
     "lat": null,
     "lng": null,
     "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-pas-de-cabres-camino-equipado"
+  },
+  {
+    "name": "Via Ferrata El Monje y su Desafio",
+    "region": "en",
+    "schwierigkeit": "B/C",
+    "dauer": "2 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-el-monje-y-su-desafio"
   }
 ]
