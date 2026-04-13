@@ -33,5 +33,14 @@
     "lat": null,
     "lng": null,
     "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-el-monje-y-su-desafio"
+  },
+  {
+    "name": "Via Ferrata el Pesebre del Corbs - Moixent",
+    "region": "en",
+    "schwierigkeit": "C",
+    "dauer": "1.5 h",
+    "lat": 38.874661,
+    "lng": -0.746578,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-el-pesebre-del-corbs-moixent"
   }
 ]
