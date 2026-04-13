@@ -44,12 +44,356 @@
     "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-el-pesebre-del-corbs-moixent"
   },
   {
-    "name": "Jubiläumsgrat Zugspitze",
+    "name": "JubilÃ¤umsgrat Zugspitze",
     "region": "en",
     "schwierigkeit": "C/D",
     "dauer": "10 h",
     "lat": 47.456097,
     "lng": 10.992422,
     "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze#"
+  },
+  {
+    "name": "Rating Details",
+    "schwierigkeit": "",
+    "dauer": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/ratings"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze#Topo"
+  },
+  {
+    "name": "Alpspitze Klettersteig",
+    "schwierigkeit": "B",
+    "dauer": "5 h",
+    "lat": 47.434378,
+    "lng": 11.050222,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-alpspitze"
+  },
+  {
+    "name": "Add Review",
+    "schwierigkeit": "",
+    "dauer": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews/add?swcfpc=1"
+  },
+  {
+    "name": "Anmelden",
+    "schwierigkeit": "",
+    "dauer": "",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/vote/favorite/form"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews?sort=newest"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews?sort=oldest"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews?sort=random"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews?sort=rating"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/reviews?sort=helpfulness"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/photos?sort=votes"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/photos?sort=newest"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/photos?sort=oldest"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/photos?sort=random"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/photos?p=2"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/nearby?view=list&category=0&center=47.456097%2C10.992422&zoom=14&is_mile=0&directory_radius=100&p=1"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/nearby?view=map&category=0&center=47.456097%2C10.992422&zoom=14&is_mile=0&directory_radius=100&p=1"
+  },
+  {
+    "name": "Riffelscharte",
+    "schwierigkeit": "A/B",
+    "dauer": "8752 h",
+    "lat": 47.43336,
+    "lng": 10.99625,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/riffelscharte"
+  },
+  {
+    "name": "Riffelscharte",
+    "schwierigkeit": "A/B",
+    "dauer": "8752 h",
+    "lat": 47.43336,
+    "lng": 10.99625,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/riffelscharte/reviews"
+  },
+  {
+    "name": "Höllental Klettersteig Zugspitze",
+    "schwierigkeit": "C",
+    "dauer": "5 h",
+    "lat": 47.43371,
+    "lng": 11.00982,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/hoellental-klettersteig-zugspitze"
+  },
+  {
+    "name": "Höllental Klettersteig Zugspitze",
+    "schwierigkeit": "C",
+    "dauer": "5 h",
+    "lat": 47.43371,
+    "lng": 11.00982,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/hoellental-klettersteig-zugspitze/reviews"
+  },
+  {
+    "name": "Höllentalklamm - Stangensteig bei Grainau",
+    "schwierigkeit": "A",
+    "dauer": "2 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/stangensteig"
+  },
+  {
+    "name": "Höllentalklamm - Stangensteig bei Grainau",
+    "schwierigkeit": "A",
+    "dauer": "2 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/stangensteig/reviews"
+  },
+  {
+    "name": "Hupfleitenjoch-Steig",
+    "schwierigkeit": "A/B",
+    "dauer": "3,5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/hupfleitenjoch-steig"
+  },
+  {
+    "name": "Hupfleitenjoch-Steig",
+    "schwierigkeit": "A/B",
+    "dauer": "3,5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/hupfleitenjoch-steig/reviews"
+  },
+  {
+    "name": "Klettersteig Stopselzieher Zugspitze",
+    "schwierigkeit": "A/B",
+    "dauer": "5,5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/stopselzieher-zugspitze"
+  },
+  {
+    "name": "Klettersteig Stopselzieher Zugspitze",
+    "schwierigkeit": "A/B",
+    "dauer": "5,5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/stopselzieher-zugspitze/reviews"
+  },
+  {
+    "name": "Mathaisenkar Klettersteig",
+    "schwierigkeit": "B/C",
+    "dauer": "8 h",
+    "lat": 47.42684,
+    "lng": 11.04229,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/mathaisenkar-klettersteig"
+  },
+  {
+    "name": "Mathaisenkar Klettersteig",
+    "schwierigkeit": "B/C",
+    "dauer": "8 h",
+    "lat": 47.42684,
+    "lng": 11.04229,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/mathaisenkar-klettersteig/reviews"
+  },
+  {
+    "name": "Alpspitze Klettersteig",
+    "schwierigkeit": "B",
+    "dauer": "5 h",
+    "lat": 47.434378,
+    "lng": 11.050222,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-alpspitze/reviews"
+  },
+  {
+    "name": "Mauerläufer Klettersteig",
+    "schwierigkeit": "e",
+    "dauer": "30 h",
+    "lat": 47.43257,
+    "lng": 11.0592,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/mauerlaeufer-klettersteig"
+  },
+  {
+    "name": "Mauerläufer Klettersteig",
+    "schwierigkeit": "e",
+    "dauer": "30 h",
+    "lat": 47.43257,
+    "lng": 11.0592,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/mauerlaeufer-klettersteig/reviews"
+  },
+  {
+    "name": "Längenfeld-Steig",
+    "schwierigkeit": "A",
+    "dauer": "8752 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/laengenfeld-steig"
+  },
+  {
+    "name": "Klettersteig \"Häselgehr-Wasserfall\"",
+    "schwierigkeit": "B",
+    "dauer": "1 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-haeselgoer-wasserfall"
+  },
+  {
+    "name": "Klettersteig \"Häselgehr-Wasserfall\"",
+    "schwierigkeit": "B",
+    "dauer": "1 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-haeselgoer-wasserfall/reviews"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/nearby?p=2&category=0&zoom=14&is_mile=0&directory_radius=100&view=list"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.421148,
+    "lng": 10.985749,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze/nearby"
+  },
+  {
+    "name": "Via Ferrata Rio Sallagoni",
+    "schwierigkeit": "C",
+    "dauer": "5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-rio-sallagoni"
+  },
+  {
+    "name": "Falkenstein Klettersteig - Mürzer Oberland",
+    "schwierigkeit": "A",
+    "dauer": "3 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/falkenstein-klettersteig-muerzer-oberland"
+  },
+  {
+    "name": "Klettersteig Moleson Via Ferrata le Pilier",
+    "schwierigkeit": "C",
+    "dauer": "3 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-moleson-via-ferrata-du-piller"
+  },
+  {
+    "name": "Klettersteig Allmenalp - Kandersteg",
+    "schwierigkeit": "C",
+    "dauer": "3,5 h",
+    "lat": null,
+    "lng": null,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/klettersteig-allmenalp"
   }
 ]
