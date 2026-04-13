@@ -4,5 +4,11 @@
     "schwierigkeit": "C/D",
     "dauer": "2 h",
     "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-les-marujes"
+  },
+  {
+    "name": "Tegelberg Fingersteig",
+    "schwierigkeit": "D",
+    "dauer": "1,5 h",
+    "url": "https://www.via-ferrata.de/klettersteige/topo/tegelberg-fingersteig"
   }
 ]
