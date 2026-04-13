@@ -42,5 +42,14 @@
     "lat": 38.874661,
     "lng": -0.746578,
     "url": "https://www.via-ferrata.de/klettersteige/topo/via-ferrata-el-pesebre-del-corbs-moixent"
+  },
+  {
+    "name": "Jubiläumsgrat Zugspitze",
+    "region": "en",
+    "schwierigkeit": "C/D",
+    "dauer": "10 h",
+    "lat": 47.456097,
+    "lng": 10.992422,
+    "url": "https://www.via-ferrata.de/klettersteige/topo/jubilaeumsgrat-zugspitze"
   }
 ]
